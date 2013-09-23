@@ -1,0 +1,265 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/f:_ViewStart.cshtml" caret="52" fromTop="2" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/d:DependencyResolution/f:IoC.cs" caret="1187" fromTop="7" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Create.cshtml" caret="1019" fromTop="10" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Controllers/f:HomeController.cs" caret="1672" fromTop="12" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/f:When_TaskList_is_Empty.cs" caret="1050" fromTop="25" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:Repository.cs" caret="0" fromTop="0" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:IRepository.cs" caret="0" fromTop="0" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:IPersistentStore.cs" caret="0" fromTop="0" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:Profile.cs" caret="245" fromTop="7" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:DependencyResolution/f:SmDependencyResolver.cs" caret="428" fromTop="0" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:ProfileListModel.cs" caret="452" fromTop="13" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:ITaskListModel.cs" caret="190" fromTop="9" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Scripts/f:jquery-1.5.1.min.js" caret="13743" fromTop="14" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:App_Start/f:StructuremapMvc.cs" caret="0" fromTop="0" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:DependencyResolution/f:IoC.cs" caret="0" fromTop="0" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:JsonFilePersistentStore.cs" caret="0" fromTop="0" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/d:DisplayTemplates/f:date.cshtml" caret="0" fromTop="0" />
+      <File id="EBD5D26A-24A2-483F-A394-4775E7194B69/f:Controller.cs" caret="0" fromTop="0" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Content/f:Site.css" caret="529" fromTop="17" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Shared/f:_Layout.cshtml" caret="1069" fromTop="9" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/d:EditorTemplates/f:Date.cshtml" caret="18" fromTop="1" />
+      <File id="EBD5D26A-24A2-483F-A394-4775E7194B69/f:TaskList.js" caret="0" fromTop="0" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Index.cshtml" caret="741" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:Profile.cs" caret="624" fromTop="21" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:Profile.cs" caret="836" fromTop="28" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:Profile.cs" caret="296" fromTop="9" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:ITaskListModel.cs" caret="106" fromTop="4" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:ProfileListModel.cs" caret="452" fromTop="10" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:ProfileListModel.cs" caret="156" fromTop="6" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:ProfileListModel.cs" caret="454" fromTop="15" />
+      <File id="47646A7E-0274-4953-A447-ACFFD9F96D88/f:ProfileListModel.cs" caret="452" fromTop="6" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/f:When_TaskList_is_Empty.cs" caret="343" fromTop="16" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/f:When_TaskList_is_Empty.cs" caret="517" fromTop="9" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/f:When_TaskList_is_Empty.cs" caret="614" fromTop="14" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/f:When_TaskList_is_Empty.cs" caret="1050" fromTop="25" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Controllers/f:HomeController.cs" caret="338" fromTop="11" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Controllers/f:HomeController.cs" caret="845" fromTop="21" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Controllers/f:HomeController.cs" caret="1672" fromTop="28" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Controllers/f:HomeController.cs" caret="1672" fromTop="22" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Create.cshtml" caret="74" fromTop="1" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Create.cshtml" caret="896" fromTop="20" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Create.cshtml" caret="1171" fromTop="28" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Create.cshtml" caret="1286" fromTop="17" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Create.cshtml" caret="1466" fromTop="22" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/d:DependencyResolution/f:IoC.cs" caret="234" fromTop="6" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/d:DependencyResolution/f:IoC.cs" caret="682" fromTop="9" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/d:DependencyResolution/f:IoC.cs" caret="932" fromTop="2" />
+      <File id="67540B37-C60D-45B9-8DB3-FB629BCF5FD5/d:DependencyResolution/f:IoC.cs" caret="1639" fromTop="7" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Index.cshtml" caret="379" fromTop="20" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Index.cshtml" caret="86" fromTop="3" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Index.cshtml" caret="632" fromTop="26" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Index.cshtml" caret="783" fromTop="0" />
+      <File id="57F1DE9B-53C7-4938-8943-D366F09957B2/d:Views/d:Home/f:Index.cshtml" caret="187" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="static" priority="31" />
+      <Item value="System" priority="62" />
+      <Item value="Enum`0" priority="59" />
+      <Item value="PriorityStatus`0" priority="127" />
+      <Item value="Priorities" priority="63" />
+      <Item value="new" priority="287" />
+      <Item value="SelectListItem" priority="59" />
+      <Item value="Text" priority="64" />
+      <Item value="priority" priority="64" />
+      <Item value="Value" priority="65" />
+      <Item value="using" priority="62" />
+      <Item value="Linq" priority="26" />
+      <Item value="SelectList" priority="28" />
+      <Item value="SelectListItem`0" priority="63" />
+      <Item value="inherits" priority="29" />
+      <Item value="MinLength" priority="31" />
+      <Item value="ErrorMessage" priority="31" />
+      <Item value="typeof" priority="31" />
+      <Item value="Commitment`0" priority="157" />
+      <Item value="Version`0" priority="31" />
+      <Item value="Repository" priority="32" />
+      <Item value="IEnumerable" priority="95" />
+      <Item value="JsonTextReader`0" priority="31" />
+      <Item value="TextReader`0" priority="31" />
+      <Item value="try" priority="95" />
+      <Item value="List&lt;Commitment&gt;" priority="57" />
+      <Item value="task" priority="31" />
+      <Item value="null" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="TaskList" priority="63" />
+      <Item value="return" priority="95" />
+      <Item value="_taskList" priority="31" />
+      <Item value="value" priority="31" />
+      <Item value="catch" priority="31" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="ex" priority="31" />
+      <Item value="FileShare`0" priority="31" />
+      <Item value="Model" priority="95" />
+      <Item value="Select`2" priority="27" />
+      <Item value="Selected" priority="31" />
+      <Item value="p" priority="97" />
+      <Item value="var" priority="63" />
+      <Item value="selected" priority="31" />
+      <Item value="T`0" priority="62" />
+      <Item value="public" priority="93" />
+      <Item value="interface" priority="30" />
+      <Item value="Lazy" priority="63" />
+      <Item value="void" priority="31" />
+      <Item value="private" priority="63" />
+      <Item value="JsonSerializer`0" priority="31" />
+      <Item value="serializer" priority="32" />
+      <Item value="readonly" priority="31" />
+      <Item value="string" priority="95" />
+      <Item value="_fileNameForPersistentStore" priority="31" />
+      <Item value="Store" priority="63" />
+      <Item value="Items" priority="63" />
+      <Item value="class" priority="30" />
+      <Item value="bool" priority="31" />
+      <Item value="get" priority="32" />
+      <Item value="IEnumerator" priority="31" />
+      <Item value="_commitments" priority="31" />
+      <Item value="c" priority="31" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="Task" priority="31" />
+      <Item value="IoC`0" priority="31" />
+      <Item value="mock" priority="31" />
+      <Item value="s" priority="31" />
+      <Item value="Commitment" priority="57" />
+      <Item value="dt" priority="31" />
+      <Item value="DueDate" priority="31" />
+      <Item value="IProfileListModel`0" priority="31" />
+      <Item value="Profile`0" priority="187" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetValues`0" priority="26" />
+      <Item value="GetName`0" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="inherits" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="thead" priority="5" />
+      <Item value="id" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GeoffBurnsTaskList.Models.PriorityStatus">
+      <Item value="Low" priority="28" />
+      <Item value="High" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddDays`0" priority="55" />
+      <Item value="ToShortDateString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Newtonsoft.Json.JsonConvert">
+      <Item value="DeserializeObject`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="26" />
+      <Item value="Any`1" priority="81" />
+      <Item value="Where`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="OpenOrCreate" priority="26" />
+      <Item value="Create" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="DropDownListFor`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="53" />
+      <Item value="Value" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Array">
+      <Item value="Cast`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeoffBurnsTaskList.Models.Commitment">
+      <Item value="Priority" priority="26" />
+      <Item value="DueDate" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeoffBurnsTaskList.Models.IPersistentStore`1">
+      <Item value="GetItems`0" priority="53" />
+      <Item value="SaveItems`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="GetEnumerator`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeoffBurnsTaskList.Models.Repository`1">
+      <Item value="Items" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="fieldset" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GeoffBurnsTaskList.IoC">
+      <Item value="MockStore" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Setup`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeoffBurnsTaskList.Models.ITaskListModel">
+      <Item value="TodaysTask" priority="27" />
+      <Item value="AllTasks" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="False`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeoffBurnsTaskList.Models.DueTask">
+      <Item value="DueStatus" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeoffBurnsTaskList.Models.IRepository`1">
+      <Item value="Create`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeoffBurnsTaskList.Models.IProfileListModel">
+      <Item value="AllProfiles" priority="111" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeoffBurnsTaskList.Models.Profile">
+      <Item value="Surname" priority="55" />
+      <Item value="UserName" priority="55" />
+      <Item value="Dob" priority="27" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="GeoffBurnsTaskList.Models.Test.When_TaskList_is_Empty" type="NUnitTestFixtureElement" Project="67540B37-C60D-45B9-8DB3-FB629BCF5FD5" />
+        <UnitTestElement Provider="nUnit" Id="GeoffBurnsTaskList.Models.Test.When_TaskList_is_Empty.And_New_Task_is_Added_Then_TodaysTask_Should_not_be_Empty" ParentId="GeoffBurnsTaskList.Models.Test.When_TaskList_is_Empty" type="NUnitTestElement" TypeName="GeoffBurnsTaskList.Models.Test.When_TaskList_is_Empty" MethodName="And_New_Task_is_Added_Then_TodaysTask_Should_not_be_Empty" Project="67540B37-C60D-45B9-8DB3-FB629BCF5FD5" />
+        <UnitTestElement Provider="nUnit" Id="GeoffBurnsTaskList.Models.Test.When_TaskList_is_Empty.Then_TodaysTask_Should_be_Empty" ParentId="GeoffBurnsTaskList.Models.Test.When_TaskList_is_Empty" type="NUnitTestElement" TypeName="GeoffBurnsTaskList.Models.Test.When_TaskList_is_Empty" MethodName="Then_TodaysTask_Should_be_Empty" Project="67540B37-C60D-45B9-8DB3-FB629BCF5FD5" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>

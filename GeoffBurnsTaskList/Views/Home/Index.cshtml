@@ -1,0 +1,50 @@
+﻿@model GeoffBurnsTaskList.Models.IProfileListModel
+
+@{
+    ViewBag.Title = "Profile Management";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+     <h2>List of All Profiles</h2>
+    <table class="tablesorter">
+<thead> 
+    <tr>
+        <th>Task</th>
+        <th>Priority</th>
+        <th>Status</th>
+    </tr>
+</thead>
+
+@foreach (var item in Model.AllProfiles)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Surname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dob)
+        </td>
+    </tr>
+}
+
+</table>
+}
+
+<p>
+    @Html.ActionLink("Add New Profile", "Create")
+</p>
+
+
+     <h2>List of All Profiles</h2>
+
+
+@Html.ActionLink("Remove All Tasks from List", "DeleteAll", "Home")
+}
+<script type="text/javascript">
+    $(function () {
+        $("table.tablesorter").tablesorter({ widthFixed: true, sortList: [[0, 0]] });
+    });
+</script>
